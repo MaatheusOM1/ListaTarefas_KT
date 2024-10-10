@@ -26,4 +26,4 @@ class MainActivity : AppCompatActivity() {
         listaTarefas.add(Tarefa("Fazer exercícios"))
         tarefaAdapter.notifyDataSetChanged()
     }
-}
+}a
